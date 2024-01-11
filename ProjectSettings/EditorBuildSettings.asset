@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/blue.unity
+    guid: 9281df55f3f96d3469f1b6ed4b26e93d
+  - enabled: 1
+    path: Assets/Scenes/FixR.unity
+    guid: 474403c530317479789ec20a1d890a66
+  - enabled: 1
+    path: Assets/Scenes/lightGather.unity
+    guid: f95879d7551701843b4f10e2ecd564c2
+  - enabled: 1
+    path: Assets/Scenes/Ending.unity
+    guid: 0639be3c46cc5ea468d22beda5ecfcab
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 73750cb057c77f7418d266c7f4c25825, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ba78ae25c6fc7664897df2ab4712e53b, type: 2}
